@@ -1,5 +1,3 @@
-package com.yourorganization.maven_sample;
-
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.expr.BinaryExpr;
 import com.github.javaparser.ast.stmt.IfStmt;
